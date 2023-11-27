@@ -1,2 +1,2 @@
 # DNS-changer
-To connect to some sites like Coursera or openai from Iran. DNS source is shecan.com
+An auto DNS changer on a wifi connection to connect to some sites like Coursera or Openai from Iran. The DNS source is https://shecan.ir/
